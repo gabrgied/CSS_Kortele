@@ -1,0 +1,2 @@
+Bandžiau su Inspect funkcija keliose naršyklėse pažiūrėti, ar kortelės plotis atitinka 300px, bet spėju, kad mano įterptas outline elementas man trukdo tai nustatyti. 
+Atrodo, kad jo matmenų nefiksuoja naršyklė. Ar tikrai taip ir kaip tada patikrinti kortelės plotį su outline elementu?
