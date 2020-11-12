@@ -1,0 +1,84 @@
+body {
+  width: 300px;
+  font-family: 'Fredericka the Great', Verdana, sans-serif;
+  font-size: 14px;
+  margin: 0 auto;
+  padding: 15px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  background-color: #D3D3D3;
+  border-style: outset;
+  outline-style: inset;
+  outline-width: 50px;
+  outline-color: #7e4a35;
+  box-sizing: border-box;
+}
+h1, h4, h5 {
+  letter-spacing: 2px;
+  padding: 10px;
+  text-decoration: underline;
+  text-decoration-style: double;
+  text-decoration-color: #686256;
+}
+h5 {
+font-style: italic;
+text-decoration: underline;
+text-decoration-style: dotted;
+}
+p{
+  line-height: 15px;
+  letter-spacing: 2px;
+  padding: 10px;
+}
+span {
+  font-weight: bolder;
+}
+img{
+  display: block;
+  width: 100%;
+  padding-bottom: 10px;
+  border-radius: 40px 0 0 0;
+}
+@font-face {
+    font-family: 'Fredericka the Great';
+    src: url('fonts/FrederickatheGreat-Regular.woff2') format('woff2'),
+        url('fonts/FrederickatheGreat-Regular.woff') format('woff'),
+        url('fonts/FrederickatheGreat-Regular.ttf') format('truetype');
+
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+}
+div{
+  display: inline-block;
+  background-color: #5F9EA0;
+  width: 100%;
+  border-bottom: 5px solid  #D3D3D3;
+  border-top-right-radius: 20px;
+}
+.info {
+  background-color: #FFA07A;
+  width: 100%;
+  color: #3b3a30;
+}
+.info p:last-child {
+  color: #ffef96;
+  font-weight: ;
+  font-family: Verdana;
+  letter-spacing: 5px;
+  text-shadow: 2px 2px #7e4a35;
+  font-style: italic;
+  margin: 0 auto;
+  width: 80%;
+  font-size: 13px;
+  background-color: #D3D3D3;
+  border: 1px solid #686256;
+  border-bottom: none;
+  border-bottom-right-radius: 50px;
+
+}
+.intro {
+  line-height: 1px;
+
+}

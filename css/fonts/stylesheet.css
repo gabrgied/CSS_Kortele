@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Fredericka the Great';
+    src: url('C:/Users/Gabriele/Desktop/ŽP/Žiniatinklio programavimas/CSS pam/CSS_Kortele/fonts/FrederickatheGreat-Regular.woff2') format('woff2'),
+        url('C:/Users/Gabriele/Desktop/ŽP/Žiniatinklio programavimas/CSS pam/CSS_Kortele/fonts/FrederickatheGreat-Regular.woff') format('woff'),
+        url('C:/Users/Gabriele/Desktop/ŽP/Žiniatinklio programavimas/CSS pam/CSS_Kortele/fonts/FrederickatheGreat-Regular.ttf') format('truetype');
+
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
